@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hola, mi nombre es Claudio Garrido  👋
+### Senior Salesforce Consultant
+
+Soy Analista programador de sistemas con más de 12 años de experiencia en análisis, desarrollo de sistemas y plataformas web.
+
+Desde el 2019 me especializo en la herramienta CRM salesforce
 
 <!--
 **cgarrido-dev/cgarrido-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
