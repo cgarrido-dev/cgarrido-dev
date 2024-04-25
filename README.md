@@ -1,7 +1,7 @@
 # Hola, mi nombre es Claudio Garrido  👋
 ### Senior Salesforce Consultant
 
-Soy Analista programador de sistemas con más de 12 años de experiencia en análisis, desarrollo de sistemas y plataformas web.
+Soy Analista programador de sistemas con más de 13 años de experiencia en análisis, desarrollo de sistemas y plataformas web.
 
 Desde el 2019 me especializo en la herramienta CRM salesforce
 
